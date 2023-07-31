@@ -1,0 +1,8 @@
+input[type='checkbox'] {
+    accent-color: rgb(17, 0, 255);
+    height: 30px;
+}
+
+.bgbutton{
+    background-color: lightgray;
+}
